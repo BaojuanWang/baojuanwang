@@ -11,7 +11,7 @@ My research focuses on human-centered security and privacy, with an emphasis on 
 
 ## Publications
 
-**Learning Less While Asking More: How LLM-Based Assistance Shapes Vulnerability Learning**  
+**“Learning Less While Asking More: How LLM-Based Assistance Shapes Vulnerability Learning“**  
 <u><em>Baojuan Wang</em></u>, Yifan Yao, Yue Zhang, and Zhibo Eric Sun.  
 <em>ACM CCS 2026 (to appear).</em>
 
