@@ -25,7 +25,7 @@ Wanping Liu, <u><em>Baojuan Wang</em></u>, Dong Huang, Haolan Luo, and Ling Lu.
 
 ## Awards
 
-Student Travel Grant, SOUPS 2025, \$1,400, August 2025  
-Student Travel Grant, ACM CODASPY 2025, \$1,000, June 2025  
-Student Travel Grant, IEEE S&P 2025, \$1,500, May 2025
+Student Travel Grant, SOUPS 2025, USD 1,400, August 2025  
+Student Travel Grant, ACM CODASPY 2025, USD 1,000, June 2025  
+Student Travel Grant, IEEE S&P 2025, USD 1,500, May 2025
 
